@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0D050A,75:3A1825,100:F7A8C4&height=240&section=header&text=LAYSA%20BEATRIZ&fontSize=52&fontColor=F7A8C4&fontAlignY=36&desc=CYBERSECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS%20%E2%80%A2%20PENTEST&descAlignY=61&descSize=16&animation=twinkling" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    CYBER SECURITY HEADER                    -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:10050B,65:351522,100:F7A8C4&height=250&section=header&text=LAYSA%20BEATRIZ&fontSize=54&fontColor=F7A8C4&fontAlignY=35&desc=CYBERSECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS%20%E2%80%A2%20PENTEST&descAlignY=60&descSize=16&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F7A8C4&center=true&vCenter=true&width=900&lines=%3E+INICIALIZANDO+SISTEMA+DE+SEGURAN%C3%87A...;%3E+CARREGANDO+PERFIL+DE+CYBERSECURITY...;%3E+M%C3%93DULO+DE+PER%C3%8DCIA+FORENSE%3A+ATIVO;%3E+M%C3%93DULO+DE+PENTEST%3A+ONLINE;%3E+ANALISANDO+VULNERABILIDADES...;%3E+INVESTIGANDO.+ANALISANDO.+PROTEGENDO.;%3E+ACESSO+AUTORIZADO." alt="Animação de terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=F7A8C4&center=true&vCenter=true&width=950&lines=%5BSYSTEM%5D+INICIALIZANDO+PROTOCOLO+DE+SEGURAN%C3%87A...;%5BSYSTEM%5D+ACESSO+AUTORIZADO...;%5BCYBER%5D+CARREGANDO+M%C3%93DULOS...;%5BFORENSE%5D+INICIANDO+AN%C3%81LISE+DIGITAL...;%5BPENTEST%5D+MODO+ETHICAL+HACKING+ATIVO...;%5BNETWORK%5D+ESCANEANDO+AMBIENTE...;%5BSECURITY%5D+MONITORAMENTO+ONLINE...;%5BSTATUS%5D+APRENDENDO.+INVESTIGANDO.+PROTEGENDO." alt="Terminal Cybersecurity"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SISTEMA-ONLINE-F7A8C4?style=for-the-badge&labelColor=000000&logo=probot&logoColor=F7A8C4"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-ATIVO-F7A8C4?style=for-the-badge&labelColor=000000&logo=hackthebox&logoColor=F7A8C4"/>
-<img src="https://img.shields.io/badge/PENTEST-EM%20ESTUDO-F7A8C4?style=for-the-badge&labelColor=000000&logo=kalilinux&logoColor=F7A8C4"/>
-<img src="https://img.shields.io/badge/FORENSE%20DIGITAL-FOCO-F7A8C4?style=for-the-badge&labelColor=000000&logo=virustotal&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20SISTEMA-ONLINE-F7A8C4?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20CYBERSECURITY-ATIVO-F7A8C4?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20FORENSE-ATIVO-F7A8C4?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20PENTEST-EM%20ESTUDO-F7A8C4?style=for-the-badge&labelColor=000000"/>
 
 <br><br>
 
@@ -29,28 +35,64 @@
 
 ---
 
-# `> PERFIL.DE.SEGURANÇA`
+# `> SYSTEM.BOOT`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    PERFIL DE SEGURANÇA                      ║
+║                                                              ║
+║                  CYBER SECURITY TERMINAL                     ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [✓] Inicializando sistema                                  ║
+║  [✓] Carregando módulos de segurança                        ║
+║  [✓] Verificando integridade                                ║
+║  [✓] Inicializando ambiente de análise                      ║
+║  [✓] Carregando ferramentas                                 ║
+║  [✓] Conexão estabelecida                                   ║
+║                                                              ║
+║  USER       : LAYSA                                          ║
+║  ACCESS     : AUTHORIZED                                     ║
+║  SECURITY   : ACTIVE                                         ║
+║  MODE       : LEARNING                                       ║
+║                                                              ║
+║  SYSTEM MESSAGE:                                             ║
+║  "A investigação começa onde os dados terminam."             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `> PERFIL.DE.SEGURANÇA`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="450"/>
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    IDENTIDADE DIGITAL                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  NOME         : Laysa Beatriz                               ║
 ║  FORMAÇÃO     : Ciência da Computação                       ║
 ║  UNIVERSIDADE : UFAPE                                        ║
-║  LOCALIZAÇÃO  : Brasil 🇧🇷                                    ║
+║  PAÍS         : Brasil 🇧🇷                                    ║
 ║                                                              ║
 ║  ÁREA PRINCIPAL                                               ║
-║  └─ CYBERSECURITY                                             ║
+║  └── CYBERSECURITY                                            ║
 ║                                                              ║
-║  ESPECIALIZAÇÕES DE INTERESSE                                ║
-║  ├─ Perícia Forense Digital                                  ║
-║  ├─ Pentest / Ethical Hacking                                ║
-║  ├─ Segurança da Informação                                  ║
-║  ├─ Análise de Vulnerabilidades                              ║
-║  ├─ Resposta a Incidentes                                    ║
-║  └─ Investigação Digital                                     ║
+║  FOCO                                                           ║
+║  ├── Perícia Forense Digital                                 ║
+║  ├── Pentest                                                  ║
+║  ├── Ethical Hacking                                         ║
+║  ├── Segurança da Informação                                 ║
+║  ├── Análise de Vulnerabilidades                             ║
+║  ├── Investigação Digital                                    ║
+║  └── Resposta a Incidentes                                   ║
 ║                                                              ║
 ║  STATUS       : EM FORMAÇÃO                                  ║
 ║                                                              ║
@@ -59,7 +101,7 @@
 
 ---
 
-# `> QUEM.SOU.EU`
+# `> WHOAMI`
 
 ```bash
 $ whoami
@@ -72,53 +114,107 @@ Construir uma carreira em Cibersegurança,
 com foco em Perícia Forense Digital,
 Pentest e investigação de incidentes.
 
-$ status
+$ ./security_profile.sh
 
-[+] Ciência da Computação
-[+] Segurança da Informação
 [+] Cybersecurity
-[+] Perícia Forense Digital
+[+] Digital Forensics
 [+] Pentest
 [+] Ethical Hacking
-[+] Análise de Vulnerabilidades
-[+] Investigação Digital
+[+] Vulnerability Analysis
+[+] Incident Response
+[+] Linux
+[+] Networking
+[+] Programming
+
+$ echo $MISSION
+
+INVESTIGAR • ANALISAR • PROTEGER
 ```
 
-🎓 Sou estudante de **Ciência da Computação na UFAPE**, construindo minha formação com foco direcionado para **Cibersegurança**.
-
-🔐 Meu principal objetivo é desenvolver conhecimento e experiência nas áreas de **Perícia Forense Digital, Pentest, Ethical Hacking, análise de vulnerabilidades e investigação de incidentes de segurança**.
-
-🕵️ Tenho interesse especialmente na parte investigativa da tecnologia: compreender **o que aconteceu, como aconteceu, quais evidências foram deixadas e como reconstruir uma atividade digital**.
-
-💻 A programação e a engenharia de software fazem parte da minha base para compreender sistemas, explorar vulnerabilidades de forma ética e desenvolver ferramentas de segurança.
-
-> **"Conhecer o sistema. Encontrar a falha. Preservar a evidência. Proteger o ambiente."**
+> 🔐 Meu objetivo é compreender sistemas profundamente para identificar vulnerabilidades, investigar incidentes e desenvolver soluções de segurança de forma ética e responsável.
 
 ---
 
-# `> ÁREAS.DE.ATUAÇÃO`
+# `> CYBER.LAB`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=F7A8C4&center=true&vCenter=true&width=700&lines=%5BCYBER+LAB%5D+AMBIENTE+DE+TREINAMENTO;%5BCYBER+LAB%5D+AN%C3%81LISE+DE+VULNERABILIDADES;%5BCYBER+LAB%5D+FORENSE+DIGITAL;%5BCYBER+LAB%5D+CTFs+%26+WRITE-UPS;%5BCYBER+LAB%5D+ETHICAL+HACKING" />
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                       CYBER LAB                             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ⚔️  PENTEST                                                   ║
+║      Reconhecimento                                          ║
+║      Enumeração                                              ║
+║      Análise de vulnerabilidades                             ║
+║      Exploração controlada                                   ║
+║                                                              ║
+║  🕵️  FORENSE DIGITAL                                          ║
+║      Investigação                                            ║
+║      Análise de evidências                                   ║
+║      Preservação de evidências                               ║
+║      Reconstrução de eventos                                 ║
+║                                                              ║
+║  🧩  CTF & LABORATÓRIOS                                       ║
+║      Desafios de segurança                                   ║
+║      Web Security                                            ║
+║      Linux                                                    ║
+║      Criptografia                                            ║
+║                                                              ║
+║  📝  WRITE-UPS                                                 ║
+║      Relatórios técnicos                                    ║
+║      Análises                                                ║
+║      Metodologias                                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `STATUS DO LABORATÓRIO`
+
+```bash
+$ ./cyber_lab_status
+
+[████████████████░░░░░░░░] 70%
+
+[✓] Linux
+[✓] Programação
+[✓] Algoritmos
+[→] Redes
+[→] Segurança da Informação
+[→] Pentest
+[→] Forense Digital
+[→] CTFs
+[→] Ethical Hacking
+
+LAB STATUS: ONLINE
+```
+
+---
+
+# `> CYBERSECURITY.MATRIX`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=F7A8C4"/>
-
-<img src="https://img.shields.io/badge/PERÍCIA_FORENSE_DIGITAL-000000?style=for-the-badge&logo=virustotal&logoColor=F7A8C4"/>
-
 <img src="https://img.shields.io/badge/PENTEST-000000?style=for-the-badge&logo=kalilinux&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/DIGITAL_FORENSICS-000000?style=for-the-badge&logo=virustotal&logoColor=F7A8C4"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/ETHICAL_HACKING-000000?style=for-the-badge&logo=hackaday&logoColor=F7A8C4"/>
-
-<img src="https://img.shields.io/badge/ANÁLISE_DE_VULNERABILIDADES-000000?style=for-the-badge&logo=owasp&logoColor=F7A8C4"/>
-
-<img src="https://img.shields.io/badge/SEGURANÇA_DA_INFORMAÇÃO-000000?style=for-the-badge&logo=datadog&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-000000?style=for-the-badge&logo=cisco&logoColor=F7A8C4"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/RESPOSTA_A_INCIDENTES-000000?style=for-the-badge&logo=opsgenie&logoColor=F7A8C4"/>
-
-<img src="https://img.shields.io/badge/INVESTIGAÇÃO_DIGITAL-000000?style=for-the-badge&logo=probot&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/INCIDENT_RESPONSE-000000?style=for-the-badge&logo=opsgenie&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/THREAT_ANALYSIS-000000?style=for-the-badge&logo=virustotal&logoColor=F7A8C4"/>
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=F7A8C4"/>
 
 </div>
 
@@ -130,17 +226,17 @@ $ status
 
 ### `SISTEMAS`
 
-<img src="https://skillicons.dev/icons?i=linux,windows,kali&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark"/>
 
 <br><br>
 
-### `DESENVOLVIMENTO`
+### `PROGRAMAÇÃO`
 
 <img src="https://skillicons.dev/icons?i=python,c,java,bash,git,github&theme=dark"/>
 
 <br><br>
 
-### `FERRAMENTAS & TECNOLOGIAS`
+### `FERRAMENTAS`
 
 <img src="https://skillicons.dev/icons?i=vscode,docker,mysql&theme=dark"/>
 
@@ -148,38 +244,29 @@ $ status
 
 ---
 
-# `> MATRIZ.DE.CONHECIMENTO`
+# `> SECURITY.PROTOCOL`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CYBER MATRIX                             ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🔐 CYBERSECURITY                                            ║
-║     ├── Segurança da Informação                              ║
-║     ├── Fundamentos de Redes                                 ║
-║     └── Segurança de Sistemas                                ║
-║                                                              ║
-║  🕵️ PERÍCIA FORENSE DIGITAL                                  ║
-║     ├── Investigação Digital                                 ║
-║     ├── Análise de Evidências                                ║
-║     ├── Cadeia de Custódia                                   ║
-║     └── Resposta a Incidentes                                ║
-║                                                              ║
-║  ⚔️ PENTEST                                                   ║
-║     ├── Reconhecimento                                       ║
-║     ├── Enumeração                                           ║
-║     ├── Análise de Vulnerabilidades                          ║
-║     └── Exploração Ética                                     ║
-║                                                              ║
-║  💻 PROGRAMAÇÃO                                               ║
-║     ├── Python                                                ║
-║     ├── C                                                     ║
-║     ├── Java                                                  ║
-║     └── Estruturas de Dados                                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│              METODOLOGIA DE APRENDIZADO                    │
+│                                                             │
+│       RECONHECER                                           │
+│           ↓                                                 │
+│       ANALISAR                                              │
+│           ↓                                                 │
+│       IDENTIFICAR                                           │
+│           ↓                                                 │
+│       TESTAR                                                │
+│           ↓                                                 │
+│       DOCUMENTAR                                            │
+│           ↓                                                 │
+│       PROTEGER                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+> **Todo teste de segurança deve ser realizado de forma autorizada, ética e controlada.**
 
 ---
 
@@ -189,50 +276,102 @@ $ status
 
 ## 🚗 SISTEMA DE CONCESSIONÁRIA
 
-<a href="https://github.com/laysabeatriizz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laysabeatriizz&repo=concessionaria&theme=dark&hide_border=true&bg_color=000000&title_color=F7A8C4&icon_color=F7A8C4&text_color=FFFFFF"/>
-</a>
-
 ```text
-┌──────────────────────────────────────────────┐
-│          SISTEMA DE CONCESSIONÁRIA          │
-├──────────────────────────────────────────────┤
-│                                              │
-│  • Gerenciamento de veículos                │
-│  • Cadastro de clientes                     │
-│  • Controle de vendas                       │
-│  • Consulta de informações                  │
-│  • Gerenciamento de dados                   │
-│                                              │
-│  FOCO: DESENVOLVIMENTO DE SISTEMAS          │
-│                                              │
-└──────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                 SISTEMA DE CONCESSIONÁRIA                 ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  • Gerenciamento de veículos                              ║
+║  • Cadastro de clientes                                    ║
+║  • Controle de vendas                                      ║
+║  • Consulta de informações                                 ║
+║  • Gerenciamento de dados                                  ║
+║                                                            ║
+║  FOCO: DESENVOLVIMENTO DE SISTEMAS                        ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
-
----
 
 ## 🏋️ SISTEMA ACADEMIA
 
-<a href="https://github.com/laysabeatriizz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laysabeatriizz&repo=SistemaAcademia&theme=dark&hide_border=true&bg_color=000000&title_color=F7A8C4&icon_color=F7A8C4&text_color=FFFFFF"/>
-</a>
+```text
+╔════════════════════════════════════════════════════════════╗
+║                     SISTEMA ACADEMIA                       ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  • Cadastro de alunos                                      ║
+║  • Ficha de treino                                         ║
+║  • Controle de dietas                                      ║
+║  • Professores                                              ║
+║  • Funcionários                                             ║
+║  • Avaliação física                                         ║
+║  • Planos                                                   ║
+║                                                            ║
+║  TECNOLOGIA: JAVA • POO                                    ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# `> CONQUISTAS & EVOLUÇÃO`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=laysabeatriizz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+
+<br><br>
 
 ```text
-┌──────────────────────────────────────────────┐
-│                 SISTEMA ACADEMIA             │
-├──────────────────────────────────────────────┤
-│                                              │
-│  • Cadastro de alunos                       │
-│  • Ficha de treino                          │
-│  • Controle de dietas                       │
-│  • Professores                               │
-│  • Funcionários                              │
-│  • Avaliação física                          │
-│  • Planos                                    │
-│                                              │
-│  TECNOLOGIA: JAVA • POO                      │
-│                                              │
-└──────────────────────────────────────────────┘
+              CYBERSECURITY EVOLUTION TREE
+
+                         🎯
+                         │
+                 CYBERSECURITY
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ▼              ▼              ▼
+       ⚔️ PENTEST    🕵️ FORENSE     🔐 SECURITY
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+                  👩‍💻 ESPECIALIZAÇÃO
+```
+
+### `NÍVEL ATUAL`
+
+```bash
+$ ./status_cyber.sh
+
+CYBERSECURITY             [████████░░] 80%
+PROGRAMAÇÃO               [████████░░] 80%
+LINUX                     [██████░░░░] 60%
+REDES                     [█████░░░░░] 50%
+PENTEST                   [██████░░░░] 60%
+FORENSE DIGITAL           [█████░░░░░] 50%
+
+STATUS: EM FORMAÇÃO
+OBJETIVO: ESPECIALIZAÇÃO
+```
+
+> ⚠️ Os percentuais representam apenas meu estágio de aprendizado.
+
+### `PRÓXIMAS CONQUISTAS`
+
+```text
+[ ] Laboratórios de Pentest
+[ ] CTFs
+[ ] Write-ups de segurança
+[ ] Estudos de Forense Digital
+[ ] Projetos de Cybersecurity
+[ ] Certificação em Segurança
+[ ] Certificação em Pentest
+[ ] Formação em Perícia Forense Digital
+[ ] Experiência profissional em Cybersecurity
 ```
 
 </div>
@@ -242,26 +381,24 @@ $ status
 # `> MISSÃO.ATUAL`
 
 ```bash
-$ ./cybersecurity_mission.sh
+$ ./mission.exe
 
-[██████████████████░░░░░░] 75%
-
-[✓] Fundamentos de programação
-[✓] Lógica de programação
-[✓] Estruturas de dados
-[✓] Sistemas e desenvolvimento
-[→] Redes de computadores
-[→] Segurança da Informação
-[→] Linux / Kali Linux
-[→] Pentest
-[→] Ethical Hacking
-[→] Perícia Forense Digital
-[→] Análise de vulnerabilidades
-[ ] Resposta a incidentes
-[ ] Especialização profissional
-
-> OBJETIVO PRINCIPAL:
-> Construir uma carreira sólida em Cybersecurity.
+╔════════════════════════════════════════════════════╗
+║                  MISSÃO PRINCIPAL                 ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  Construir uma carreira sólida em                 ║
+║  CIBERSEGURANÇA.                                   ║
+║                                                    ║
+║  FOCO:                                             ║
+║                                                    ║
+║  → Pentest                                         ║
+║  → Perícia Forense Digital                        ║
+║  → Ethical Hacking                                ║
+║  → Segurança da Informação                        ║
+║  → Investigação Digital                           ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -278,7 +415,7 @@ $ ./cybersecurity_mission.sh
 
 ---
 
-# `> SEQUÊNCIA.DE.CONTRIBUIÇÕES`
+# `> STREAK.MONITOR`
 
 <div align="center">
 
@@ -288,27 +425,17 @@ $ ./cybersecurity_mission.sh
 
 ---
 
-# `> MONITOR.DE.ATIVIDADE`
+# `> ACTIVITY.MONITOR`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laysabeatriizz&bg_color=000000&color=F7A8C4&line=F7A8C4&point=FFFFFF&area=true&hide_border=true&custom_title=ATIVIDADE%20DE%20CYBERSECURITY" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laysabeatriizz&bg_color=000000&color=F7A8C4&line=F7A8C4&point=FFFFFF&area=true&hide_border=true&custom_title=CYBER%20ACTIVITY%20MONITOR" width="95%"/>
 
 </div>
 
 ---
 
-# `> CONQUISTAS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=laysabeatriizz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
-
-# `> MATRIZ.DE.CONTRIBUIÇÕES`
+# `> CONTRIBUIÇÕES`
 
 <div align="center">
 
@@ -343,18 +470,19 @@ $ ./cybersecurity_mission.sh
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║       "INVESTIGAR. ANALISAR. PROTEGER. EVOLUIR."             ║
+║        "INVESTIGAR. ANALISAR. PROTEGER. EVOLUIR."            ║
 ║                                                              ║
-║              SECURITY SYSTEM : ONLINE                       ║
-║              FORENSICS       : ACTIVE                       ║
-║              PENTEST         : ACTIVE                       ║
-║              STATUS          : LEARNING                     ║
+║       SECURITY SYSTEM  : ONLINE                             ║
+║       FORENSICS        : ACTIVE                             ║
+║       PENTEST          : ACTIVE                             ║
+║       THREAT MONITOR   : RUNNING                            ║
+║       STATUS           : LEARNING                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0D050A,75:3A1825,100:F7A8C4&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:10050B,75:351522,100:F7A8C4&height=140&section=footer" width="100%"/>
 
 </div>
